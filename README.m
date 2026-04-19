@@ -3,7 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { motion } from "framer-motion";
 import { useState } from "react";
 
-export default function Website() {
+export default function Website() {www.ltventertainment.xyz 
   const [page, setPage] = useState("home");
 
   const Nav = () => (
